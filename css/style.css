@@ -1,0 +1,13 @@
+<style>
+p{
+color:red;
+}
+</style>
+.half width{
+width:50%;
+float:left;
+}
+ .experience-item{
+   padding:10px;
+   border-left:1px solid rgba(137,130,247,.2);
+   }
